@@ -1,3 +1,3 @@
 # Test
-This is my first repo.
-Author: Gulce
+*This is my first repository.*
+***Author:*** *Gulce*
